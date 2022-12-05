@@ -1,0 +1,10 @@
+C:\Users\Boomie\Desktop\SortingAlgorithmVisualizer-main\Algorithm Visualizer\bin\Debug\Algorithm Visualizer.exe.config
+C:\Users\Boomie\Desktop\SortingAlgorithmVisualizer-main\Algorithm Visualizer\bin\Debug\Algorithm Visualizer.exe
+C:\Users\Boomie\Desktop\SortingAlgorithmVisualizer-main\Algorithm Visualizer\bin\Debug\Algorithm Visualizer.pdb
+C:\Users\Boomie\Desktop\SortingAlgorithmVisualizer-main\Algorithm Visualizer\obj\Debug\Algorithm Visualizer.csproj.AssemblyReference.cache
+C:\Users\Boomie\Desktop\SortingAlgorithmVisualizer-main\Algorithm Visualizer\obj\Debug\Algorithm_Visualizer.MainForm.resources
+C:\Users\Boomie\Desktop\SortingAlgorithmVisualizer-main\Algorithm Visualizer\obj\Debug\Algorithm_Visualizer.Properties.Resources.resources
+C:\Users\Boomie\Desktop\SortingAlgorithmVisualizer-main\Algorithm Visualizer\obj\Debug\Algorithm Visualizer.csproj.GenerateResource.cache
+C:\Users\Boomie\Desktop\SortingAlgorithmVisualizer-main\Algorithm Visualizer\obj\Debug\Algorithm Visualizer.csproj.CoreCompileInputs.cache
+C:\Users\Boomie\Desktop\SortingAlgorithmVisualizer-main\Algorithm Visualizer\obj\Debug\Algorithm Visualizer.exe
+C:\Users\Boomie\Desktop\SortingAlgorithmVisualizer-main\Algorithm Visualizer\obj\Debug\Algorithm Visualizer.pdb
